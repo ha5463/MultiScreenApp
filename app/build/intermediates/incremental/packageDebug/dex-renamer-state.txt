@@ -1,0 +1,7 @@
+#Wed Oct 26 21:40:55 IST 2016
+base.0=C\:\\Users\\Ajay Agarawal\\Desktop\\ud839_Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f4dfc68411058da5a426f67dff7748619120585f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ajay Agarawal\\Desktop\\ud839_Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f7819cb3d42713c0d1aa4bf778d55721f64412ab\\classes.dex
+base.1=C\:\\Users\\Ajay Agarawal\\Desktop\\ud839_Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f7819cb3d42713c0d1aa4bf778d55721f64412ab
+file.0=C\:\\Users\\Ajay Agarawal\\Desktop\\ud839_Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f4dfc68411058da5a426f67dff7748619120585f\\classes.dex
