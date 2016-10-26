@@ -2170,6 +2170,7 @@ containing a value of this type.
         public static final int left=0x7f0c0020;
         public static final int line1=0x7f0c0073;
         public static final int line3=0x7f0c0077;
+        public static final int list=0x7f0c006a;
         public static final int listMode=0x7f0c000a;
         public static final int list_item=0x7f0c003f;
         public static final int media_actions=0x7f0c0071;
@@ -2188,7 +2189,6 @@ containing a value of this type.
         public static final int progress_horizontal=0x7f0c0006;
         public static final int radio=0x7f0c004f;
         public static final int right=0x7f0c0021;
-        public static final int rootview=0x7f0c006a;
         public static final int screen=0x7f0c0025;
         public static final int scroll=0x7f0c0017;
         public static final int scrollView=0x7f0c0047;

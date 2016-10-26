@@ -1,4 +1,4 @@
-#Wed Oct 26 21:40:55 IST 2016
+#Wed Oct 26 23:35:50 IST 2016
 base.0=C\:\\Users\\Ajay Agarawal\\Desktop\\ud839_Miwok\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f4dfc68411058da5a426f67dff7748619120585f
 renamed.1=classes2.dex
 renamed.0=classes.dex
